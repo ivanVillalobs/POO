@@ -11,11 +11,8 @@ int main()
         aux = num;
         num += anterior;
         anterior = aux;
-    }
-    
-    cout << "\n\n"<<endl;
-    
-
+    }    
+    cout << "\n\n"<<endl;    
     system("pause");
     return 0;
 }
